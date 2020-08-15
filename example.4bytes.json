@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "text_signature": "balanceOf(address)",
+  "bytes_signature": "r'\x13\xf7",
+  "hex_signature": "0x722713f7",
+}
